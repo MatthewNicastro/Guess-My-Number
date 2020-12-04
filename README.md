@@ -5,6 +5,7 @@ A simple web app build with JavaScript, HTML, and CSS where the user has 20 atte
 The computer give information as too how close the guess was by saying either too high or too low, depending on how off the guess was from the 
 random number.
 ```
+Example:
   random number 5
   User guesses: 10 
   'Too high'
@@ -13,6 +14,7 @@ random number.
 ```
 The score is calculated by subtracting the number of guesses by the total number of alloted attempts. 
 ```
+Example:
   User takes 10 guesses
   Score -> 20 - 10 = 10
 ```
