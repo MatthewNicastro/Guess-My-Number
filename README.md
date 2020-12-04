@@ -5,7 +5,6 @@ A simple web app build with JavaScript, HTML, and CSS where the user has 20 atte
 The computer give information as too how close the guess was by saying either too high or too low, depending on how off the guess was from the 
 random number.
 ```
-I.E.
   random number 5
   User guesses: 10 
   'Too high'
@@ -14,7 +13,9 @@ I.E.
 ```
 The score is calculated by subtracting the number of guesses by the total number of alloted attempts. 
 ```
-I.E. 
   User takes 10 guesses
   Score -> 20 - 10 = 10
 ```
+Starter code obtained from: 
+
+https://github.com/jonasschmedtmann/complete-javascript-course/tree/master/05-Guess-My-Number/starter
